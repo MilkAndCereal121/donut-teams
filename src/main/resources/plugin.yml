@@ -1,0 +1,11 @@
+name: DonutTeams
+main: net.luxcube.minecraft.TeamsPlugin
+api-version: 1.20
+authors:
+  - Milk_And_Cereal
+version: 0.0.1-SNAPSHOT
+softdepend:
+  - DonutHomes
+  - PlaceholderAPI
+depend:
+  - Vault
